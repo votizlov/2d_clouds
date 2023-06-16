@@ -67,16 +67,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _GradientMultipler: 2.43
-    - _GradientOffset: 0.47
+    - _GradientMultipler: 2.53
+    - _GradientOffset: 0.477
     - _LightIntensity: 1.57
     - _NoiseGradientOffset: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RimPower: 1.7
+    - _RimPower: 1.62
     - _ShadowMax: 1
     - _ShadowMin: 0.32
     m_Colors:
     - _CloudColor: {r: 1, g: 1, b: 1, a: 0}
-    - _RimColor: {r: 1, g: 0.98276484, b: 0.7311321, a: 0}
+    - _NoiseSpeed: {r: 1, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 1, g: 0.9830561, b: 0.8160377, a: 0}
   m_BuildTextureStacks: []
